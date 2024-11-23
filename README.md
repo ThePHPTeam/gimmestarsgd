@@ -31,7 +31,12 @@ Instant Complete
 3 - And now, open Macro Recorder and load the file. (gd1.mrf for MR and gd1.mcr for Jitbit)
 Now, set your keybinds and let's go next step.
 
-4 - Go to the Online Levels, Click at Search, then the search again (magnifying glass next to the people with magnifying glass).
 
-5 - Start the Macro with your key binds. Good luck!
+4 - Go to the Online Levels, Click at Search, and set the tags by clicking the big + button:
+
+Uncompleted
+
+5 - Then click the search again (magnifying glass next to the people with magnifying glass).
+
+6 - Start the Macro with your key binds. Good luck!
  
