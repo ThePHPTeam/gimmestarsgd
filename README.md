@@ -36,6 +36,8 @@ Now, set your keybinds and let's go next step.
 
 Uncompleted
 
+And next to the difficulties (faces), click the star.
+
 5 - Then click the search again (magnifying glass next to the people with magnifying glass).
 
 6 - Start the Macro with your key binds. Good luck!
